@@ -3,7 +3,7 @@ A comprehensive set of filters for **uBlock Origin** that allows you to access p
 
 ## Installation
 Just click [here](
-https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpopis1%2Fkarabis%2Frefs%2Fheads%2Fmain%2Ffilters.txt&title=kara-filters_revanced) to install or...
+https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpopis1%2Fkaraczan_revanced%2Frefs%2Fheads%2Fmain%2Ffilters.txt&title=kara-filters_revanced) to install or...
 * Open uBO's dashboard and go to "Filter lists" tab
 * Click the *Import* checkbox in the *Custom* section and paste the URL below:<br> 
 ``https://raw.githubusercontent.com/popis1/karabis/refs/heads/main/filters.txt``

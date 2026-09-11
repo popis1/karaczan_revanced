@@ -10,8 +10,8 @@ https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.
 
 
 ## Support table for filters
-Site             | Firefox browser
------------------|-----------------------
-karachan.org     | :heavy_check_mark:
-wilchan.org      | :heavy_check_mark:
-chanwiki.com     | :heavy_check_mark:
+Site             | Chromium-based browsers | Firefox browser
+-----------------|-----------------------|----------------
+karachan.org     | :heavy_check_mark:    | :heavy_check_mark:
+wilchan.org      | :heavy_check_mark:    | :heavy_check_mark:
+chanwiki.com     | :heavy_check_mark:    | :heavy_check_mark:

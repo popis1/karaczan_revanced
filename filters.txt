@@ -31,3 +31,7 @@ karachan.org##+js(acis, Math.random, _0x5215)
 ||wilchan.org/js/smietnik.js
 ||wilchan.org/js/openings*.js
 ||wilchan.org/js/wilno2.js
+
+! chanwiki.com
+chanwiki.com##body:after
+chanwiki.com##+js(aopw, HTMLImageElement.prototype.src)

@@ -1,6 +1,6 @@
 ! Title: kara-filters_revanced
 ! Description: A comprehensive set of filters for uBlock Origin that allows you to access polish imageboards such as Karachan and other related sites.
-! Homepage: https://github.com/popis1/karabis
+! Homepage: https://github.com/popis1/karaczan_revanced
 ! Expires: 3 days
 
 ! karachan.org

@@ -34,7 +34,6 @@ karachan.org##+js(acis, Math.random, _0x5215)
 
 ! chanwiki.com
 ||louisabraham.github.io/nekojs/neko.js$script
-||chanwiki.com/load.php?modules=startup$script
 ||chanwiki.com/load.php?*modules=startup*$script
 chanwiki.com##body:after  
 chanwiki.com##+js(aopw, HTMLImageElement.prototype.src) 
